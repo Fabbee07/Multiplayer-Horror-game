@@ -2,7 +2,7 @@
    "StartAsHost" : "True", 
    "StartAsServer" : "False", 
    "StartAsClient" : "False", 
-   "MaxPlayers" : "4", 
+   "MaxPlayers" : "2", 
    "Port" : "9797", 
    "EnableBots" : "false", 
    "AllowReconnection" : "false", 
